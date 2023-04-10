@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RahiaGlobalTech
+- 👋 Hi, I’m @Rahia
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning html/Css, Javascript, php/mysql,python...
 - 💞️ I’m looking to collaborate on new tech
